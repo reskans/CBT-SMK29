@@ -1,0 +1,83 @@
+[
+  {
+    "id" : 9,
+    "codename": "FLY",
+    "versi": "5.2",
+    "dipostingoleh": "@nicedream1337",
+    "publishdate": "11\/03\/2021",
+    "isi": "<p>Added ~ Analisis kemampuan siswa (Pengetahuan)<br>Added ~ Analisis kemampuan siswa Gabung Pengetahuan & Keterampilan<br>Added ~ Persentase kegagalan peserta nilai pengetahuan<br>Added ~ Taxonomy dan Detail Taxonomy<br>Fix ~ Analisis butir soal resource<br>Fix ~ Maser Menu 7 Sub Menu<br>Added ~ New Database table<br>Added ~ Materi berdasarkan Detail Taxonomy<br>Added ~ Format baru Template soal MS Word<br>Added ~ Tambahkan KD dan Materi langsung dari Ms Word<br>Added ~ Support Arabic upload dari Ms Word<br>Fix ~ Koreksi otomatis jawaban singkat<br>Added ~ Ganti theme flyexam dari menu pengaturan<br>Fixed ~ Opsi jawaban tidak muncul jika test tidak ranom (kondisi tertentu)<br> Versi database <code>Added ~ Versi 5.2</code></p>",
+    "status": 1
+  },
+  {
+    "id" : 8,
+    "codename": "FLY",
+    "versi": "5.1#R2",
+    "dipostingoleh": "@nicedream1337",
+    "publishdate": "24\/10\/2020",
+    "isi": "<p>Added ~ Tampilan dashboard yang lebih informatif<br>Added ~ Beberapa field baru pada database<br>Added ~ Menu update database<br>Added ~ informasi Error saat membuat test<br>Added ~ Informasi Group, Soal & Jawaban pada halaman daftar test<br>Added ~ Detail informasi pada hasil jawaban peserta<br>Fixed ~ Laporan berdasarkan KD (Kompetensi Dasar)</p>",
+    "status": 1
+  },
+  {
+    "id" : 7,
+    "codename": "FLY",
+    "versi": "5.1#R1",
+    "dipostingoleh": "@nicedream1337",
+    "publishdate": "26\/09\/2020",
+    "isi": "<p>Fixed ~ <code>Line Break</code> spesial karakter dari MS word.<br>Fixed ~ Form input deskripsi soal & jawaban tidak responsive.<br>Fixed ~ Hanya menganalisis butir soal user yang sudah mengerjakan soal<br>Add ~ Menu Cetak Analisis butir soal<br>Fixed ~ Test tidak diproses saat opsi tidak random (kondisi posisi soal tidak diisi)<br>Add ~ Menu simpan semua hasil di monitoring<br>Fixed ~ Testlog order tidak berurutan saat proses test<br>Fixed ~ Tgl lahir siswa <code>NULL</code> saat import dari Excel<br>Add ~ Support multi group import user dari Excel<br>Add ~ Opsi Pengaturan umum munculkan halaman edit password user<br>Add ~ Halaman edit password di user jika dimunculkan</p>",
+    "status": 1
+  },
+  {
+    "id" : 6,
+    "codename": "FLY",
+    "versi": "5.1",
+    "dipostingoleh": "@nicedream1337",
+    "publishdate": "19\/09\/2020",
+    "isi": "<p>Fixed ~ Penyesuaian level akses diseluruh menu termasuk modul dan test (Pengawas, Guru/Dosen, Administrator)<br>Fixed ~ Perbaikan autentikasi pada Token ujian.<br>Fixed ~ Test langsung selesai dalam kondisi tertentu.<br>Fixed ~ Proses test gagal dalam kondisi tertentu.<br>Add ~ Tampilan data yang lebih informatif<br>Add ~ Tampilan baru saat daftar test kosong<br>Add ~ Menampilkan opsi jawaban yang dipilih user di halaman test<br>Add ~ Opsi tampilkan password dihalaman login<br>Add ~ Menambah informasi biodata peserta halaman user</p>",
+    "status": 1
+  },
+  {
+    "id" : 5,
+    "codename": "FLY",
+    "versi": "5.0.0#R4",
+    "dipostingoleh": "@nicedream1337",
+    "publishdate": "16\/09\/2020",
+    "isi": "<p>Added ~ Add informasi jumlah data diseluruh halaman.<br>Added ~ Status test di halaman Monitoring.<br>Added ~ Menu Ulang test, Simpan, Hentikan & simpan Test, serta Tambah waktu di halaman Monitoring.<br>Added ~ Menu export respon data untuk kebutuhan Analisis<br>Fixed ~ Hasil test user pertama tidak muncul (dg kondisi test bisa diulang).<br>Fixed ~ Support test dg multi modul, multi topik dalam satu test.<br>Fixed ~ Filter Nama User di halaman hasil tidak berfungsi</p>",
+    "status": 1
+  },
+  {
+    "id" : 4,
+    "codename": "FLY",
+    "versi": "5.0.0#R3",
+    "dipostingoleh": "@nicedream1337",
+    "publishdate": "13\/09\/2020",
+    "isi": "<p>Added ~ Maksimum skor berdasarkan tingkat kesukaran soal.<br>Added ~ Proses data test lebih stabil.<br>Fixed ~ Proses data Test dengan multi topik<br>Fixed ~ Proses data Test type soal MCMA<br>Fixed ~ Error saat upload user dlm kondisi tertentu<br>Fixed ~ Error/Respon lama saat hentikan test di Monitoring Test<br>Added ~ Export hasil test berdasarkan Kompetensi Dasar (KD)<br>Fixed ~ Error update peserta saat TTL <code>NULL</code><br>Fixed ~ Format tanggal waktu mulai dan selesai test </p>",
+    "status": 1
+  },
+  {
+    "id" : 3,
+    "codename": "FLY",
+    "versi": "5.0.0#R2",
+    "dipostingoleh": "@nicedream1337",
+    "publishdate": "17\/08\/2020",
+    "isi": "<p>Added ~ FlyExam Browser(Android) <code>FLY5_R6_17082020</code> support<br>Added ~ Gambar user di halaman admin<br>Added ~ Reset login dari halaman pengawas</p>",
+    "status": 1
+  },
+  {
+    "id" : 2,
+    "codename": "FLY",
+    "versi": "5.0.0#R1",
+    "dipostingoleh": "@nicedream1337",
+    "publishdate": "11\/08\/2020",
+    "isi": "<p>Added ~ Changelog information<br>Added ~ Menu Hentikan & simpan data test user (Monitoring)<br>Added ~ Data Group ID (Group peserta)<br>Fixed ~ Duplikat daftar test halaman user<br>Fixed ~ Typo penulisan File pada menu<br>Added ~ Menu Token Ujuan / Android di sidebar<br>Fixed ~ Support multi type soal dalam satu test<br>Added ~ Tambah/Hapus soal dalam test<br>Added ~ Generate random token halaman test</p>",
+    "status": 1
+  },
+  {
+  "id" : 1,
+  "codename": "FLY",
+  "versi": "5.0.0",
+  "dipostingoleh": "@nicedream1337",
+  "publishdate": "08\/08\/2020",
+  "isi": "<p>Publish stable release.</p>",
+  "status": 1
+  }
+]
